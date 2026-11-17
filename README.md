@@ -11,9 +11,13 @@ Recebo cerca de **40 e-mails por dia**: alertas de vagas (a maioria fora do perf
 ## O resultado
 
 - Na primeira execução, **93 e-mails** dos últimos 3 dias foram classificados e etiquetados em **17 segundos**.
-- Todo dia chega um resumo como este (exemplo com dados fictícios):
+- Todo dia chega um resumo com os prazos de processos seletivos, as vagas no meu perfil e a contagem por categoria (prévia na imagem do topo).
 
-<img src="imagens/resumo_exemplo.png" width="520" alt="Exemplo do e-mail de resumo diário">
+  <details>
+  <summary>Ver o resumo de exemplo em tamanho maior (dados fictícios)</summary>
+  <br>
+  <img src="imagens/resumo_exemplo.png" width="520" alt="Exemplo do e-mail de resumo diário">
+  </details>
 
 - **Tempo economizado (estimativa):** 15 min/dia, cerca de 1h45 por semana ou 90h por ano. O n8n soma esse valor a cada execução no painel *Time saved*.
 
