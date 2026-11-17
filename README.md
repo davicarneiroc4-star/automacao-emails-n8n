@@ -17,6 +17,8 @@ Recebo cerca de **40 e-mails por dia**: alertas de vagas (a maioria fora do perf
 
 ## Como funciona
 
+![Fluxo no editor do n8n](imagens/fluxo_n8n.png)
+
 ```mermaid
 flowchart LR
     A[Todo dia às 8h<br>ou quando o n8n liga] --> B[Gmail API<br>e-mails dos últimos 3 dias<br>ainda sem etiqueta]
