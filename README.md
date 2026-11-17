@@ -1,5 +1,7 @@
 # Triagem de e-mails com IA | n8n + Gemini + Gmail
 
+![Triagem de e-mails com IA: fluxo no n8n e exemplo do resumo diário](imagens/capa.png)
+
 Automação que organiza o meu Gmail sozinha: classifica cada e-mail novo em 8 categorias, coloca etiquetas e me manda **um resumo por dia** com o que importa: prazos de processos seletivos e vagas no meu perfil.
 
 ## O problema
@@ -16,8 +18,6 @@ Recebo cerca de **40 e-mails por dia**: alertas de vagas (a maioria fora do perf
 - **Tempo economizado (estimativa):** 15 min/dia, cerca de 1h45 por semana ou 90h por ano. O n8n soma esse valor a cada execução no painel *Time saved*.
 
 ## Como funciona
-
-![Fluxo no editor do n8n](imagens/fluxo_n8n.png)
 
 ```mermaid
 flowchart LR
